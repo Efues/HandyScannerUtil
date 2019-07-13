@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandyScannerUtil", "HandyScannerUtil\HandyScannerUtil.csproj", "{A7CC8118-7342-42EA-B1BA-8B99C3BE8488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{01C0B391-98E5-48E1-8986-0A6973BFF108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CC8118-7342-42EA-B1BA-8B99C3BE8488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CC8118-7342-42EA-B1BA-8B99C3BE8488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CC8118-7342-42EA-B1BA-8B99C3BE8488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CC8118-7342-42EA-B1BA-8B99C3BE8488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C0B391-98E5-48E1-8986-0A6973BFF108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C0B391-98E5-48E1-8986-0A6973BFF108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C0B391-98E5-48E1-8986-0A6973BFF108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C0B391-98E5-48E1-8986-0A6973BFF108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D148A54-40D0-44D3-8048-AAA77BDD5879}
+	EndGlobalSection
+EndGlobal
