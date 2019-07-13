@@ -1,0 +1,2 @@
+# HandyScannerUtil
+QRコードリーダのサンプルコード
