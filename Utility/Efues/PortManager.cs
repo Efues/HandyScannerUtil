@@ -85,7 +85,7 @@ namespace Efues.Utility
 
     public string Read()
     {
-      return this.SerialPort.ReadLine();
+      return this.SerialPort.ReadExisting();
     }
     #endregion
   }
